@@ -1,0 +1,20 @@
+币种：
+tb_user:
+Emoney          注册分
+BonusAccount 	奖励分
+StockMoney	复利分
+StockAccount	激活分
+GLmoney		购物分
+
+User002		注册人
+
+注：
+
+tb_journal:
+JournalType 帐户类型
+1	注册分
+2	奖励分
+3	复利分
+4	激活分
+5	购物分
+
